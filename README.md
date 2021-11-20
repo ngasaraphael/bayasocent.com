@@ -1,8 +1,8 @@
-# bayasocent.com
+# bayasocent.com. 
 website for non profit organization 
 
-#Tech
+#Tech. 
 Built with HTML, CSS Bootstrap and Javascript
 
-#live demo
+#live demo  
 www.bayasocent.com
